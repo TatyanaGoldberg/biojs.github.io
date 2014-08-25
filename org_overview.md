@@ -5,7 +5,7 @@ title: People
 
 
 
-PROJECT COORDINATOR AND PI
+PROJECT COORDINATOR AND PI uuu
 
 * Manuel Corpas (The Genome Analysis Centre, TGAC) 
 
